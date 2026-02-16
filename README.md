@@ -1,6 +1,6 @@
 # 🚨 Incident Tracker - Backend API
 
-This is the backend service for the **Incident Tracker Application**.  
+This is the backend service for the **Incident Tracker Application**.
 Built using **Node.js, Express.js, and MongoDB**, it provides REST APIs to manage incidents.
 
 ---
@@ -8,18 +8,18 @@ Built using **Node.js, Express.js, and MongoDB**, it provides REST APIs to manag
 ## 🛠 Tech Stack
 
 - Node.js
-- Express.js (v5)
+- Express.js
 - MongoDB
 - Mongoose
 - Express Validator
 - CORS
 - Dotenv
-- Nodemon (Development)
+- Nodemon
 
 ---
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow the steps below to run the backend locally.
 
